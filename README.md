@@ -66,9 +66,6 @@ Cite relevant literature, studies, or sources that informed the proposed solutio
 ![image](https://user-images.githubusercontent.com/87777192/165208226-cfb737fb-b70e-463f-8c74-9c841fa3fb5b.png)
 
 
-# A snapshot of the GUI program
-
-![image](https://user-images.githubusercontent.com/87777192/165206967-9ea5acfe-c087-4563-a899-115d9e2a5dae.png)
 
 # prerequisites:
 | Group ID            | Artifact ID                | Version    |
