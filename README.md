@@ -2,21 +2,64 @@
 
 # Introduction
 
-This program simulates bus traffic in King abdulaiziz University.
+This program simulates bus traffic.
 
 # Project Description:
 
-- Problem Definition?
-      - The inefficiency Bus transportation system at King Abdulaziz University causes students to be late.
 - Problem Solving?
       - Regulating the existing transportation bus system schedules/times by reducing wasted time.
+Introduction:
 
-### more details:
-The current bus transportation system at King Abdulaziz University is inefficient and causes students to be late. This is because the bus leaves at a predetermined time, regardless of whether it is full or not. For example, if a bus is scheduled to leave at 7:15 AM and has a maximum capacity of 10 students, but 11 students arrive at 7:05 AM, one student will miss the bus because the next one is not scheduled to arrive until 7:15 AM.
+Provide an overview of the current inefficiencies in the bus transportation system in City X.
+Highlight the problem of passengers being consistently late due to the existing system.
+Problem Definition:
 
-To address this issue, we propose a solution in which additional buses are dispatched when the current one reaches maximum capacity during peak hours. This solution takes into account various factors such as fuel consumption, distance, time, and cost.
+Emphasize the inefficiencies in the current bus transportation system.
+Clearly state that buses leave at predetermined times, causing delays and inconveniences when they reach full capacity.
+Objective:
 
-We plan to simulate both the current system and our proposed solution to compare their efficiency. This will allow us to determine the feasibility and benefits of implementing the new system.
+The primary objective is to enhance the efficiency of the bus transportation system in City X.
+Specifically, address the issue of buses departing at fixed times, leading to delays and potential capacity issues.
+Proposed Solution:
+
+Introduce a dynamic scheduling system where additional buses are dispatched during peak hours when the current bus reaches maximum capacity.
+Consider factors such as fuel consumption, distance, time, and cost in implementing the new scheduling system.
+Emphasize the flexibility and adaptability of the proposed solution to accommodate varying passenger loads.
+Methodology:
+
+Explain the simulation approach to compare the efficiency of the current system and the proposed solution.
+Outline the parameters considered in the simulation, including passenger load, fuel consumption, travel time, and overall cost.
+Simulation Process:
+
+Detail the steps involved in simulating both the current and proposed bus scheduling systems.
+Provide information on the simulation tools or software to be used.
+Expected Outcomes:
+
+Anticipate improvements in passenger punctuality and overall satisfaction.
+Quantify the benefits of the proposed system in terms of reduced waiting times and increased system efficiency.
+Feasibility Analysis:
+
+Assess the practicality and feasibility of implementing the proposed solution.
+Consider factors such as cost, resources, and infrastructure requirements.
+Conclusion:
+
+Summarize the key points of the proposed solution and its potential impact on the efficiency of the bus transportation system in City X.
+Reinforce the importance of addressing the identified issues for the benefit of passengers and the city community.
+Recommendations:
+
+Provide recommendations for the implementation of the proposed solution.
+Suggest potential adjustments or improvements based on the simulation outcomes.
+Future Work:
+
+Outline potential future developments or enhancements to the bus transportation system.
+Consider scalability and adaptability for future changes in passenger demand.
+References:
+
+Cite relevant literature, studies, or sources that informed the proposed solution and simulation methodology.
+
+
+
+
 
 # UML
 
