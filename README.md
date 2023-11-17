@@ -2,7 +2,7 @@
 
 # Introduction
 
-This program simulates bus traffic. 
+This program simulates bus traffic
 
 # Project Description:
 
