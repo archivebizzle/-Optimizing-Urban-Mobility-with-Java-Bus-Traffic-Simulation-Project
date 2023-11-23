@@ -13,11 +13,12 @@ Introduction:
 Provide an overview of the current inefficiencies in the bus transportation system in City X.
 Highlight the problem of passengers being consistently late due to the existing system.
 
-Problem Definition:
+Problem Definition:-
 
 Emphasize the inefficiencies in the current bus transportation system.
 Clearly state that buses leave at predetermined times, causing delays and inconveniences when they reach full capacity.
-Objective:
+
+Objective:-
 
 The primary objective is to enhance the efficiency of the bus transportation system in City X.
 Specifically, address the issue of buses departing at fixed times, leading to delays and potential capacity issues.
