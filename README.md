@@ -7,7 +7,7 @@ This program simulates bus traffic
 # Project Description:
 
 - Problem Solving?
-      - Regulating the existing transportation bus system schedules/times by reducing wasted time.
+      - Regulating the existing transportation bus system schedules/times by reducing wasted 
 Introduction:
 
 Provide an overview of the current inefficiencies in the bus transportation system in City X.
