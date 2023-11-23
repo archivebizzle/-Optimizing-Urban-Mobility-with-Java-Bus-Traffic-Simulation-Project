@@ -12,6 +12,7 @@ Introduction:
 
 Provide an overview of the current inefficiencies in the bus transportation system in City X.
 Highlight the problem of passengers being consistently late due to the existing system.
+
 Problem Definition:
 
 Emphasize the inefficiencies in the current bus transportation system.
