@@ -22,27 +22,33 @@ Objective:-
 
 The primary objective is to enhance the efficiency of the bus transportation system in City X.
 Specifically, address the issue of buses departing at fixed times, leading to delays and potential capacity issues.
+
 Proposed Solution:
 
 Introduce a dynamic scheduling system where additional buses are dispatched during peak hours when the current bus reaches maximum capacity.
 Consider factors such as fuel consumption, distance, time, and cost in implementing the new scheduling system.
 Emphasize the flexibility and adaptability of the proposed solution to accommodate varying passenger loads.
+
 Methodology:
 
 Explain the simulation approach to compare the efficiency of the current system and the proposed solution.
 Outline the parameters considered in the simulation, including passenger load, fuel consumption, travel time, and overall cost.
+
 Simulation Process:
 
 Detail the steps involved in simulating both the current and proposed bus scheduling systems.
 Provide information on the simulation tools or software to be used.
+
 Expected Outcomes:
 
 Anticipate improvements in passenger punctuality and overall satisfaction.
 Quantify the benefits of the proposed system in terms of reduced waiting times and increased system efficiency.
+
 Feasibility Analysis:
 
 Assess the practicality and feasibility of implementing the proposed solution.
 Consider factors such as cost, resources, and infrastructure requirements.
+
 Conclusion:
 
 Summarize the key points of the proposed solution and its potential impact on the efficiency of the bus transportation system in City X.
