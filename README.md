@@ -57,10 +57,12 @@ Recommendations:
 
 Provide recommendations for the implementation of the proposed solution.
 Suggest potential adjustments or improvements based on the simulation outcomes.
+
 Future Work:
 
 Outline potential future developments or enhancements to the bus transportation system.
 Consider scalability and adaptability for future changes in passenger demand.
+
 References:
 
 Cite relevant literature, studies, or sources that informed the proposed solution and simulation methodology.
