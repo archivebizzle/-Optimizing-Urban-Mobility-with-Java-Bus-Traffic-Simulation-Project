@@ -8,6 +8,7 @@ This program simulates bus traffic!!
 
 - Problem Solving?
       - Regulating the existing transportation bus system schedules/times by reducing wasted time.
+  .
 Introduction:
 
 Provide an overview of the current inefficiencies in the bus transportation system in City X.
